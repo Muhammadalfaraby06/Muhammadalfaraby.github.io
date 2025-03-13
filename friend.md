@@ -1,29 +1,9 @@
-<<<<<<< HEAD
 ---
-layout : default
-title : Friends
----
-
-# friends page
-
-Berikut Teman-Teman saya di kelas :
-[Ahmad Fayad](https://ahmadfayyadh.github.io/)
-[Al Faiz Akbar Thaib](https://alfaizakbar.github.io/)
-[Allysa Humaira](https://allysahumaira.github.io/)
-[Amirullah](https://amirullah310.github.io/)
-[Darmawan Sahputra](https://darmawansahputra1.github.io/)
-[Farid Haiqal](https://fared.github.io/)
-[Mohd Muda Abrar](https://mudaabrar.github.io/)
-[Muhammad Zaky](https://muhzakyyy.github.io/)
-[Muhammad Zaky Fahrezi](https://m-zakifahrezi.github.io/)
-[Nursita](https://nursitaaa.github.io/)
-=======
----
-layout : default
-title : Friends
+layout: default
+title: Friends
 ---
 
-# friends page
+# Friends page
 
 Berikut Teman-Teman saya di kelas :
 1. [Ahmad Fayyadh](https://ahmadfayyadh.github.io/)
@@ -36,13 +16,13 @@ Berikut Teman-Teman saya di kelas :
 8. [Anggi Sya'ban Nabila Batubara](https://angginabilabatubara.github.io/)
 9. [Balqis Misyia](https://balqismisyia.github.io/)
 10. [Cut Yumna Assyifa]()
-11. [M.Amharul Azhan](https://amharul.github.io/)
+11. [Darmawan Sahputra](https://darmawansahputra1.github.io/)
 12. [Dinda Eliza](https://dindaelz06.github.io/)
 13. [Farid Haiqal](https://fared08.github.io/)
 14. [Janrico Maulana Sofyan](https://janricomaulanas.github.io/)
 15. [Muhammad Alfaraby](https://muhammadalfaraby06.github.io/)
 16. [Muhammad Alif Sidqi](https://alfsdqi.github.io/)
-17. [Darmawan Sahputra](https://darmawansahputra1.github.io/)
+17. [Muhammad Amharul Azhan](https://amharul.github.io/)
 18. [Muhammad Nawar Khadafi](https://khadafimuhammadnawwar.github.io/)
 19. [Muhammad Raihan](https://mraihanads.github.io/)
 20. [Muhammad Zaky](https://muhzakyyy.github.io/)
@@ -54,4 +34,3 @@ Berikut Teman-Teman saya di kelas :
 26. [Rafi'i Habibi](https:/rafi-i-habibi.github.io/)
 27. [Syahan Alfatih](https://syahanalfatih.github.io/)
 28. [T. Ahmad Addairabi Asyafi'ie](https://addairabi.github.io/)
->>>>>>> 4d74610 (push)
